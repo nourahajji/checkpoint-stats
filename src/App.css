@@ -1,38 +1,161 @@
-.App {
+
+#black{
+  width: 40px;
+  height: 40px;
+margin-left: 1234px;
+margin-top: -39px;
+}
+.blom h1{
   text-align: center;
-}
-
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
-}
-
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
-}
-
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
+  margin-top: -54px;
   color: white;
+
+  
+}
+.blom  ul li a {
+  text-decoration: none;
+  margin-left: 40px;
+  color: beige;
+ font-weight: bold;
+cursor: pointer;
+
+}
+.blom  ul li a:hover {
+  color: grey;
+}
+.fas fa-qrcode{
+  margin-top: 20px;
+}
+.blom{
+  background-color:black;
+
+}
+.blom svg{
+  margin-bottom: -61px;
+  color: white;
+  margin-left: 20px;
 }
 
-.App-link {
-  color: #61dafb;
+
+.vivi{
+  background-color: white;
+}
+#red{
+  width: 1379px;
+  margin-top: 50px;
+  padding: -57px;
+  height: 500px;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+#card{
+  margin-left: 174px;
+ 
+
+
+}
+.btn{
+  width: 50px;
+  height: 50px;
+  margin-top: 3px;
+    margin-left: 163px;
+}
+#bibo{
+  margin-left: 998px;
+}
+#cloun{
+  margin-left: 986px;
+
+}
+#yallow{
+  margin-left: 986px;
+}
+#green{
+  margin-top: -67px;
+  margin-left: 716px;
+}
+#dido{
+  margin-left: 704px;
+}
+#blo{
+  margin-left: 436px;
+  margin-top: -67px;
+}
+#vert{
+  margin-left: 422px;
+}
+#lili{
+  margin-top: -67px;
+  margin-left: 139px;
+}
+#noir{
+  margin-left: 123px;
+}
+
+.vivi{
+  position: relative;
+  justify-content: space-around;
+  padding: 105px;
+ 
+}
+.vivi img{
+  position: relative;
+justify-items: center;
+
+}
+#kiko{
+  margin-left: 97px;
+}
+#lam{
+  margin-left: 130px;
+}
+
+.blom h1:hover{
+  color: grey;
+  cursor: pointer;
+}
+.gry{
+  text-align: center;
+  background-color: black;
+  padding: 66px;
+}
+.gry h3{
+  color: white;
+  padding: 40px;
+  margin-top: -20px;
+}
+#fa{
+  margin-left: -436px;
+  color: white;
+
+
+  
+}
+#hello{
+ 
+  width: 299px;
+  height: 32px;
+}
+#submit{
+  width: 211px;
+  height: 34px;
+  background-color: grey;
+
+  font-weight: bold;
+}
+.loulou{
+  margin-top: 14px;
+  width: 79%;
+  display: flex;
+  justify-content: space-around;
+  margin-left: 194px;
+
+
+}
+.popos h3{
+  margin-top: 58px;
+  margin-left: 156px;
+}
+.popos img{
+  width: 200px;
+  height: 200px;
 }
